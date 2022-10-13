@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dashboardAdmin-online/static/css/main.8356d2ea.css",
+    "main.js": "/dashboardAdmin-online/static/js/main.0c3c53fc.js",
+    "index.html": "/dashboardAdmin-online/index.html",
+    "main.8356d2ea.css.map": "/dashboardAdmin-online/static/css/main.8356d2ea.css.map",
+    "main.0c3c53fc.js.map": "/dashboardAdmin-online/static/js/main.0c3c53fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8356d2ea.css",
+    "static/js/main.0c3c53fc.js"
+  ]
+}
